@@ -35,17 +35,17 @@ I architect enterprise-grade APIs, event-driven pipelines, and serverless servic
 
 ```txt
 Languages:      TypeScript · Node.js · Python · SQL
-Frameworks:     Fastify · NestJS · React · Vite · Zod
+Frameworks:     Fastify · NestJS · React · Zod
 Cloud & Infra:  AWS · Azure · Docker · Terraform · GitHub Actions
 Databases:      CosmosDB · PostgreSQL · DynamoDB · Redis
-Tooling:        Nx · Biome · OpenTelemetry · Sentry · PostHog
+Tooling:        Nx · Biome · Sentry · PostHog
 ```
 
 ---
 
 ## 📈 GitHub Stats
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldriggs&show_icons=true&hide_title=true&hide_border=true&theme=default)](https://github.com/gabrieldriggs)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldriggs&show_icons=true&hide_title=true&hide_border=true&theme=default)](https://github.com/gabed457)
 
 ---
 
@@ -55,7 +55,7 @@ If you're building something meaningful — infrastructure, devtools, or systems
 
 - 🌍 [gabrieldriggs.com](https://www.gabrieldriggs.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-driggs-45b659182/)
-- 🧑‍💻 [Upwork](#) *(freelance inquiries welcome)*
+- 🧑‍💻 [Upwork](https://www.upwork.com/freelancers/~015b11096e03396332) *(freelance inquiries welcome)*
 
 ---
 
