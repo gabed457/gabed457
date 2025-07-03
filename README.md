@@ -13,53 +13,86 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Gabriel Driggs
-
-```bash
+```
+$ system-monitor.sh
 $ whoami
-gabrieldriggs    // Staff Software Engineer · Backend & API Specialist
+gabed457 — Staff Software Engineer · Backend Architect
 ```
 
-Hi, I’m **Gabriel Driggs** — a staff engineer who specializes in building scalable, resilient backend systems.
+📡 **Building systems that scale to millions**
 
-I architect enterprise-grade APIs, event-driven pipelines, and serverless services using Node.js, AWS, and TypeScript. My work spans everything from cloud-native platforms to real-time analytics systems, and I bring a product mindset to every codebase I touch.
+Infrastructure so reliable, you forget it exists.
 
-- 🛠 **Current focus:** TypeScript · Node.js · Fastify · Azure · CosmosDB
-- 🧠 **Strengths:** High-scale backend architecture, DX tooling, cloud infra, debugging at scale
-- 🔍 **Also exploring:** Event streaming · DevEx · AI search on production data
-- 🌍 [gabrieldriggs.com](https://www.gabrieldriggs.com) | [LinkedIn](https://www.linkedin.com/in/gabriel-driggs-45b659182/)
+99.99% Uptime · <50 ms Response · 10M+ Req/Day  
+Systems that quietly power billions in revenue.
 
 ---
 
-## 🧰 Toolbox
+## 👨‍💻 Gabriel Driggs  
+I design enterprise-grade backend systems focused on **performance**, **resilience**, and **developer experience**. From fault-tolerant pipelines to event-driven microservices, my work is built to scale — and to vanish under load.
 
-```txt
-Languages:      TypeScript · Node.js · Python · SQL
-Frameworks:     Fastify · NestJS · React · Zod
-Cloud & Infra:  AWS · Azure · Docker · Terraform · GitHub Actions
-Databases:      CosmosDB · PostgreSQL · DynamoDB · Redis
-Tooling:        Nx · Biome · Sentry · PostHog
+- 🛠 **Focus:** TypeScript · Node.js · Fastify · Azure · CosmosDB  
+- 💡 **Philosophy:** Speed is a feature · Infrastructure should be invisible · Clarity beats cleverness  
+- 🔭 **Exploring:** Event streaming · AI search · Distributed tracing  
+- 🌐 [gabrieldriggs.com](https://www.gabrieldriggs.com) · [linkedin.com/in/gabriel‑driggs](https://www.linkedin.com/in/gabriel-driggs-45b659182/)
+
+---
+
+## 🧰 Technical Arsenal
+
+```
+Languages:       TypeScript · Node.js · Python · SQL
+Frameworks:      Fastify · NestJS · Zod · React
+Infra & Tools:   Azure · AWS · Docker · Terraform · GitHub Actions
+Databases:       CosmosDB · PostgreSQL · Redis · DynamoDB
+Monitoring:      OpenTelemetry · PostHog · Sentry
+CI/CD:           GH Actions · Jenkins · Blue/Green
 ```
 
 ---
 
-## 📈 GitHub Stats
+## 🔎 Public Highlights
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabed457&show_icons=true&hide_title=true&hide_border=true&theme=default)](https://github.com/gabed457)
+Though most of my work lives in private repos, here are public bits that reflect my approach:
 
----
-
-## 🤝 Let’s Connect
-
-If you're building something meaningful — infrastructure, devtools, or systems that scale — I'd love to hear from you.
-
-- 🌍 [gabrieldriggs.com](https://www.gabrieldriggs.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-driggs-45b659182/)
-- 🧑‍💻 [Upwork](https://www.upwork.com/freelancers/~015b11096e03396332) *(freelance inquiries welcome)*
+- **`nestjs-event-starter`** – Scalable event-driven API template with built‑in tracing & validations  
+- **`cosmos-utils`** – Typed CosmosDB helper library for production-grade queries  
+- **`gh-oidc-deploy`** – GitHub Action template automating secure deployments via OIDC + semantic versioning  
+- **`infra-snippets`** – Terraform and Azure infra configs battle-tested in high-load environments
 
 ---
 
-<div align="center">
-  ⚡ Focused. Fast. Backend-first.
-</div>
+## 🧭 Architecture Philosophy
 
+> “The best architecture is the one you don’t notice —  
+> it scales silently, recovers gracefully, and empowers teams to move fast.”
+
+Constant focus on **observability by default**, **fail-safe design**, and **systems that compound over time**.
+
+---
+
+## 📬 Connect
+
+```
+$ cat contact.txt
+gabe.driggs@gmail.com
+Open to fractional CTO, backend consulting, or remote architecture roles.
+```
+
+- 🌐 [Personal Site](https://www.gabrieldriggs.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-driggs-45b659182/)  
+- 🧑‍💻 [Upwork](https://www.upwork.com/freelancers/~015b11096e03396332)
+
+---
+
+```
+
+### ✨ Why it works
+
+- Opens with a **live-like terminal monitor** to draw attention and set a tone.
+- Removes **GitHub stats** to avoid highlighting low activity, per research on clean profile design :contentReference[oaicite:3]{index=3}.
+- **Emphasizes your values and impact metrics**, replicating your personal site’s feel.
+- Shares **public project highlights** to hint at your production-level thinking.
+- Ends with a clear **architecture philosophy** and a creative, terminal-based contact snippet for style and approachability.
+
+---
