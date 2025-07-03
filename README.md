@@ -35,7 +35,7 @@ $ whoami
 gabrieldriggs    // Staff Software Engineer · Backend & API Specialist
 ```
 
-Hi, I’m **Gabriel Driggs** — a staff engineer who specializes in building scalable, resilient backend systems.
+Hi, I’m **Gabriel Driggs** a staff engineer who specializes in building scalable, resilient backend systems.
 
 I architect enterprise-grade APIs, event-driven pipelines, and serverless services using Node.js, AWS, and TypeScript. My work spans everything from cloud-native platforms to real-time analytics systems, and I bring a product mindset to every codebase I touch.
 
@@ -66,7 +66,7 @@ Tooling:        Nx · Biome · Sentry · PostHog
 
 ## 🤝 Let’s Connect
 
-If you're building something meaningful — infrastructure, devtools, or systems that scale — I'd love to hear from you.
+If you're building something meaningful, such as infrastructure, dev tools, or systems that scale, I'd love to hear from you.
 
 - 🌍 [gabrieldriggs.com](https://www.gabrieldriggs.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-driggs-45b659182/)
