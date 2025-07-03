@@ -45,7 +45,7 @@ Tooling:        Nx · Biome · Sentry · PostHog
 
 ## 📈 GitHub Stats
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldriggs&show_icons=true&hide_title=true&hide_border=true&theme=default)](https://github.com/gabed457)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabed457&show_icons=true&hide_title=true&hide_border=true&theme=default)](https://github.com/gabed457)
 
 ---
 
