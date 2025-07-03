@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **gabed457/gabed457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,54 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Gabriel Driggs
+
+```bash
+$ whoami
+gabrieldriggs    // Staff Software Engineer · Backend & API Specialist
+```
+
+Hi, I’m **Gabriel Driggs** — a staff engineer who specializes in building scalable, resilient backend systems.
+
+I architect enterprise-grade APIs, event-driven pipelines, and serverless services using Node.js, AWS, and TypeScript. My work spans everything from cloud-native platforms to real-time analytics systems, and I bring a product mindset to every codebase I touch.
+
+- 🛠 **Current focus:** TypeScript · Node.js · Fastify · Azure · CosmosDB
+- 🧠 **Strengths:** High-scale backend architecture, DX tooling, cloud infra, debugging at scale
+- 🔍 **Also exploring:** Event streaming · DevEx · AI search on production data
+- 🌍 [gabrieldriggs.com](https://www.gabrieldriggs.com) | [LinkedIn](https://www.linkedin.com/in/gabriel-driggs-45b659182/)
+
+---
+
+## 🧰 Toolbox
+
+```txt
+Languages:      TypeScript · Node.js · Python · SQL
+Frameworks:     Fastify · NestJS · React · Vite · Zod
+Cloud & Infra:  AWS · Azure · Docker · Terraform · GitHub Actions
+Databases:      CosmosDB · PostgreSQL · DynamoDB · Redis
+Tooling:        Nx · Biome · OpenTelemetry · Sentry · PostHog
+```
+
+---
+
+## 📈 GitHub Stats
+
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldriggs&show_icons=true&hide_title=true&hide_border=true&theme=default)](https://github.com/gabrieldriggs)
+
+---
+
+## 🤝 Let’s Connect
+
+If you're building something meaningful — infrastructure, devtools, or systems that scale — I'd love to hear from you.
+
+- 🌍 [gabrieldriggs.com](https://www.gabrieldriggs.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-driggs-45b659182/)
+- 🧑‍💻 [Upwork](#) *(freelance inquiries welcome)*
+
+---
+
+<div align="center">
+  ⚡ Focused. Fast. Backend-first.
+</div>
+
